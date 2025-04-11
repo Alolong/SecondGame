@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/SecondGame/HackandSlashTemp/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/BP_Wizard.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/BP_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/ABP_AnimWizard.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Mimic.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Beholder.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Beholder.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Slime.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Slime.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Mimic.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Swarm.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Swarm.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_TurtleShell.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Fish.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BP_Mush.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_TurtleShell.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Mimic_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Beholder_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Slime_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Swarm_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_TurtleShell.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_FIsh_WalkRun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Mush_Walkrun.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Fish.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/ABP_Mush.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/BP_GameState.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/BP_Hud.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/BP_Widget.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/BP_PlayerState.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/BP_PlayerController.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/Blueprint/EN_GameState.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/SecondGame/HackandSlashTemp/Content/ThirdPerson/Blueprints/BP_Wizard.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/ThirdPerson/Blueprints/BP_Mimic.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/ThirdPerson/Blueprints/BP_Beholder.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Beholder.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Slime.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Mimic.uasset",
+				"C:/SecondGame/HackandSlashTemp/Content/hackAndSlash/Creature/BS_Swarm.uasset"
+			]
+		}
+	]
+}
